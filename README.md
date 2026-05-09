@@ -17,8 +17,8 @@ I follow a categorized structure to keep the logic organized and easy to navigat
 
 | Topic | Status | Problems Solved | Key Takeaway |
 | :--- | :--- | :--- | :--- |
-| Arrays & Strings | 🟢 Completed | 50+ | Two-Pointer & Sliding Window efficiency |
-| Linked Lists | 🟡 In Progress | 15 | Mastering fast/slow pointer logic |
+| Arrays & Strings | 🔴 Not Started | 0 | - |
+| Linked Lists | 🔴 Not Started | 0 | - |
 | Trees & BST | 🔴 Not Started | 0 | - |
 | Dynamic Programming | 🔴 Not Started | 0 | - |
 | Graphs | 🔴 Not Started | 0 | - |
